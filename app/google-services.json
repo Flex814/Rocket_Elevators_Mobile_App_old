@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603014501095",
+    "project_id": "rocket-elevators-app",
+    "storage_bucket": "rocket-elevators-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603014501095:android:8659935a712b40a08b0842",
+        "android_client_info": {
+          "package_name": "com.rocketelevators.elevatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603014501095-4cot84u3l76fk4nvjhtenham5ts6n3be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6nQYcmHCdwfcSO9MAVc9Ty5cHqZCOAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603014501095-4cot84u3l76fk4nvjhtenham5ts6n3be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
